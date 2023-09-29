@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Built with <a href="https://modelviewer.dev">Model-viewer</a> & <a href="https://glitch.com">Glitch</a>.
+  Built with <a href="https://ar.snap.com/lens-studio">Lens studio</a>.
 </p>
 
 <p align="center">
