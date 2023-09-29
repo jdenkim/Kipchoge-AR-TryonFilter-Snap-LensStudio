@@ -1,6 +1,6 @@
 
 <!-- # Kipchoge-WebXR-Glitch-Clo3D -->
-<h1 align="center"> Nike Kipchoge AR Try-On Lens </h1> <br>
+<h1 align="center"> Nike Kipchoge AR Try-On in Snapchat </h1> <br>
 <p align="center">
 <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=cb2409655d6b40a0ae3f6bc285e7197d&metadata=01">
     <img alt="WebXR Kipchoge GIF file" title="WebXR Kipchoge" src="https://github.com/jdenkim/Kipchoge-AR-TryonFilter-Snap-LensStudio-Clo3D/blob/main/Assets/LenstudioDemoVideo.GIF" width="300">
@@ -11,16 +11,25 @@
 <p align="center">
   Built with <a href="https://ar.snap.com/lens-studio">Lens studio</a>.
 </p>
-
+<br>
 <p align="center">
- Scan QR Code in Snapchat.
+ <strong>Scan QR Code in Snapchat.</strong>
 </p>
 
 <p align="center">
   <a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=cb2409655d6b40a0ae3f6bc285e7197d&metadata=01">
-    <img alt="WebXR Kipchoge App Icon QRCode" title="QR Code" src="https://github.com/jdenkim/Kipchoge-WebXR-Glitch-Clo3D/blob/main/Assets/WebXRKipchogeAppIconQRCode.png" width="128">
+    <img alt="Nike Kipchoge AR Filter QRcode In Snapchat" title="QR Code" src="https://github.com/jdenkim/Kipchoge-AR-TryonFilter-Snap-LensStudio-Clo3D/blob/main/Assets/NikeKipchogeQRcodeInSnapchat.png" width="128">
   </a>
 </p>
+
+<p align="center">
+A. Download Snapchat on mobile <br>
+    <br>
+B. Open Snapchat app <br>
+    <br>
+C. Scan the QR code
+</p>
+
 
 
 ## Build Process
