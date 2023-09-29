@@ -3,7 +3,7 @@
 <h1 align="center"> Nike Kipchoge AR Try-On Lens </h1> <br>
 <p align="center">
 <a href="https://nike-kipchoge-clo3d.glitch.me/">
-    <img alt="WebXR Kipchoge GIF file" title="WebXR Kipchoge" src="https://github.com/jdenkim/Kipchoge-WebXR-Glitch-Clo3D/blob/main/Assets/IMB_ZOqF5H.GIF" width="500">
+    <img alt="WebXR Kipchoge GIF file" title="WebXR Kipchoge" src="https://github.com/jdenkim/Kipchoge-AR-TryonFilter-Snap-LensStudio-Clo3D/blob/main/Assets/LenstudioDemoVideo.GIF" width="300">
 
   </a>
 </p>
