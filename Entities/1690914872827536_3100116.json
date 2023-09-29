@@ -1,0 +1,79 @@
+{
+    "1690914872825765:3100115": {
+        "IFileManager": {
+            "path": "Files/File_1690914872825765_3100115.pvr"
+        }
+    },
+    "1690914872827536:3100116": {
+        "IResourceController": {
+            "name": "Blender02_FABRIC_2_FRONT_715502_base",
+            "type": 1,
+            "subtype": 9,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690914872828125:3100117",
+            "fileId": "1690914872825765:3100115",
+            "originalId": "1690914872829511:3100122",
+            "publicId": "1690914872859525:3100126",
+            "expected_hash": "735032743017e7b24a30039f4c8be555",
+            "additional": {
+                "originHash": "b94b9f93b199b30be44074df61bb58ac"
+            }
+        },
+        "IResourceManager": {
+            "uid": "1690914872828125:3100117",
+            "name": "Files/File_1690914872825765_3100115.png",
+            "flags": 1
+        }
+    },
+    "1690914872828125:3100117": {
+        "Compression::IController": {
+            "compressed_files": [
+                {
+                    "k": {
+                        "settings_hash": "2049",
+                        "uncompressed_hash": "b94b9f93b199b30be44074df61bb58ac"
+                    },
+                    "v": "1690914879854917:3100870"
+                }
+            ],
+            "infos": {
+                "compressedRAM": "524288",
+                "compressedSize": "96601",
+                "extension": "png",
+                "originalRAM": "4194304",
+                "originalSize": "209070",
+                "settings": {
+                    "isCompressed": "true",
+                    "level": "2",
+                    "subtype": "9",
+                    "type": "1"
+                }
+            },
+            "uncompressed_file": "1690914872848907:3100125"
+        }
+    },
+    "1690914872829511:3100122": {
+        "IFileManager": {
+            "path": "Files/File_1690914872829511_3100122.png"
+        }
+    },
+    "1690914872848907:3100125": {
+        "IFileManager": {
+            "path": "Files/File_1690914872848907_3100125.png"
+        }
+    },
+    "1690914872859525:3100126": {
+        "IResourceController": {
+            "public": {
+                "path": "Blender02_FABRIC_2_FRONT_715502_base.png",
+                "hash": "b94b9f93b199b30be44074df61bb58ac"
+            }
+        }
+    },
+    "1690914879854917:3100870": {
+        "IFileManager": {
+            "path": "Files/File_1690914879854917_3100870.pvr"
+        }
+    }
+}

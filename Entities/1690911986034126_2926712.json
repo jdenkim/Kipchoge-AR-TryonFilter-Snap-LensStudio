@@ -1,0 +1,41 @@
+{
+    "1690911986034126:2926712": {
+        "IResourceController": {
+            "name": "Blender02",
+            "type": 18,
+            "subtype": -1,
+            "dependency": 2,
+            "hidden": false,
+            "fileId": "1690911986486435:2926839",
+            "publicId": "1690911986508635:2926842",
+            "expected_hash": "f79b5d238967248d827e5207f97d2581",
+            "resources": [
+                "1690911986123052:2926726",
+                "1690911986162540:2926744",
+                "1690911986450602:2926826"
+            ],
+            "additional": {
+                "ImportParams": "",
+                "materialMapping": [
+                    {
+                        "k": "FABRIC_2_FRONT_715502",
+                        "v": "1690911986163415:2926747"
+                    }
+                ]
+            }
+        }
+    },
+    "1690911986486435:2926839": {
+        "IFileManager": {
+            "path": "Files/File_1690911986486435_2926839.obj"
+        }
+    },
+    "1690911986508635:2926842": {
+        "IResourceController": {
+            "public": {
+                "path": "Blender02.obj",
+                "hash": "f79b5d238967248d827e5207f97d2581"
+            }
+        }
+    }
+}

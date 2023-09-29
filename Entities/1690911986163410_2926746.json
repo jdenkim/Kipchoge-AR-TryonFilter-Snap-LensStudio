@@ -1,0 +1,39 @@
+{
+    "1690911986162691:2926745": {
+        "IFileManager": {
+            "path": "Files/File_1690911986162691_2926745"
+        }
+    },
+    "1690911986163410:2926746": {
+        "IResourceController": {
+            "name": "FABRIC_2_FRONT_715502",
+            "type": 2,
+            "subtype": 1,
+            "dependency": 0,
+            "hidden": false,
+            "uid": "1690911986163415:2926747",
+            "fileId": "1690911986162691:2926745",
+            "originalId": "1690911986202856:2926753",
+            "publicId": "1690911986511299:2926844",
+            "expected_hash": "0b31d06ba6e0a7a7fac473fcd6dd64a3"
+        },
+        "IResourceManager": {
+            "uid": "1690911986163415:2926747",
+            "name": "Files/File_1690911986162691_2926745",
+            "flags": 1
+        }
+    },
+    "1690911986202856:2926753": {
+        "IFileManager": {
+            "path": "Files/File_1690911986202856_2926753.lsmat"
+        }
+    },
+    "1690911986511299:2926844": {
+        "IResourceController": {
+            "public": {
+                "path": "../AdditionalFiles/Blender02/Materials/FABRIC_2_FRONT_715502.lsmat",
+                "hash": "cc1958ca06ef5dfdc6cef3e2fadf16ba"
+            }
+        }
+    }
+}

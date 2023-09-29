@@ -1,0 +1,222 @@
+{
+    "lens_id": "",
+    "document_id": "Tx-aGx3fDMYjO0_rD2zo",
+    "original_document_id": "Tx-aGx3fDMYjO0_rD2zo",
+    "version": "31",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "false",
+    "isAutoSaved": "false",
+    "api_level": "public",
+    "public_api_user_data_access": "unrestricted",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "4",
+            "minor": "40",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "InspectorUiComponent": "",
+        "MapUiComponent": {
+            "mapPinPoints": ""
+        },
+        "Material::UiComponent": "",
+        "MetaInfoUIComponent": {
+            "icon_hash": "ff6a17c5dfbd773ce022ee08357e9ea3",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "KipchogeNike",
+            "applicability": "3",
+            "lens_descriptors": "",
+            "sg": "false",
+            "Spectacles2021UseAllowed": "false"
+        },
+        "ObjectTracking3DUIComponent": "",
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:Preview\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:Preview\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/Videos\/Body.webm",
+                "front_preview_is_favorite": "false"
+            },
+            "preview_ie_project_config": {
+                "back_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:Preview\/InteractiveEnvironments\/Colorful Home",
+                "front_preview_is_favorite": "false"
+            }
+        },
+        "ResourceUiComponent": "",
+        "SceneTreeUiComponent": "",
+        "Script::UiComponent": "",
+        "VFX::UiComponent": ""
+    },
+    "model": {
+        "IFileManager": "",
+        "IResourceManager": {
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "RemoteApi::ModelManager": {
+            "api_specs": ""
+        },
+        "RenderOrderComponent": "",
+        "WorldComponent": {
+            "sceneFile": "Scene",
+            "sceneType": "splitScene",
+            "hitTestDisabledObjectsList": {
+                "type_name": "array"
+            }
+        }
+    },
+    "controller": {
+        "AssetImportController": {
+            "itemUidToID": ""
+        },
+        "Compression::IController": "",
+        "DigitalGoodsController": {
+            "digital_goods": ""
+        },
+        "IResourceController": "",
+        "InspectorController": "",
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1690911986450551:2926813",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1690911986447798:2926798"
+                        },
+                        {
+                            "k": [
+                                "Thin"
+                            ],
+                            "v": "1690911986449147:2926800"
+                        },
+                        {
+                            "k": [
+                                "Thin",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1690911986449826:2926802"
+                        }
+                    ]
+                },
+                {
+                    "k": "1690915048738227:3116828",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1690915048725103:3116772"
+                        },
+                        {
+                            "k": [
+                                "body_low"
+                            ],
+                            "v": "1690915048735377:3116815"
+                        },
+                        {
+                            "k": [
+                                "body_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1690915048736126:3116817"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low"
+                            ],
+                            "v": "1690915048732238:3116789"
+                        },
+                        {
+                            "k": [
+                                "hand_L_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1690915048732902:3116791"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low"
+                            ],
+                            "v": "1690915048733544:3116802"
+                        },
+                        {
+                            "k": [
+                                "hand_R_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1690915048734200:3116804"
+                        },
+                        {
+                            "k": [
+                                "head_low"
+                            ],
+                            "v": "1690915048728008:3116774"
+                        },
+                        {
+                            "k": [
+                                "head_low",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1690915048728884:3116776"
+                        }
+                    ]
+                }
+            ]
+        },
+        "ObjectTracking3DController": {
+            "hand_tracking_mode": "0"
+        }
+    },
+    "templateName": "Empty Project",
+    "templateUrl": "Lens Studio version 4.40.0"
+}

@@ -1,0 +1,176 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": [
+            "1690911623557671:2900773"
+        ]
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "Blender02"
+                ],
+                [
+                    "Blender02",
+                    "Blender02"
+                ],
+                [
+                    "Blender02",
+                    "Materials"
+                ],
+                [
+                    "Blender02",
+                    "Materials",
+                    "FABRIC_2_FRONT_715502"
+                ],
+                [
+                    "Blender02",
+                    "Meshes"
+                ],
+                [
+                    "Blender02",
+                    "Meshes",
+                    "Thin"
+                ],
+                [
+                    "Blender02_FABRIC_2_FRONT_715502_base"
+                ],
+                [
+                    "Blender02_FABRIC_2_FRONT_715502_materialParams"
+                ],
+                [
+                    "Blender02_FABRIC_2_FRONT_715502_normal"
+                ],
+                [
+                    "Body Tracking Asset"
+                ],
+                [
+                    "Body_Mesh_A_Pose"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Body_Mesh_A_Pose"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Materials"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Materials",
+                    "initialShadingGroup9"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Meshes"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Meshes",
+                    "body_low"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Meshes",
+                    "hand_L_low"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Meshes",
+                    "hand_R_low"
+                ],
+                [
+                    "Body_Mesh_A_Pose",
+                    "Meshes",
+                    "head_low"
+                ],
+                [
+                    "Full Body Mesh"
+                ],
+                [
+                    "Occluder"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Base"
+                ],
+                [
+                    "Textures",
+                    "MaterialParams"
+                ],
+                [
+                    "Textures",
+                    "Normal"
+                ],
+                [
+                    "Uber PBR"
+                ],
+                [
+                    "white"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            []
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1690911986034126:2926712": "/Volumes/Extreme SSD/080123/Blender02.obj",
+            "1690911986124450:2926728": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyMesh.mesh",
+            "1690912563924342:2966423": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyJpg.jpg",
+            "1690912563951559:2966441": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyJpg.jpg",
+            "1690912563961783:2966455": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyJpg.jpg",
+            "1690914872827536:3100116": "/Volumes/Extreme SSD/080123/hello/Blender02_FABRIC_2_FRONT_715502_base.1001.png",
+            "1690914872990178:3100143": "/Volumes/Extreme SSD/080123/hello/Blender02_FABRIC_2_FRONT_715502_materialParams.1001.png",
+            "1690914873060036:3100159": "/Volumes/Extreme SSD/080123/hello/Blender02_FABRIC_2_FRONT_715502_normal.1001.png",
+            "1690915046816977:3116548": "/Users/jdenkim/Downloads/3D_Body_Mesh_and_UV/Body_Mesh_A_Pose.fbx",
+            "1690915048194308:3116650": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyMesh.mesh",
+            "1690915048226292:3116664": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyMesh.mesh",
+            "1690915048256881:3116678": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyMesh.mesh",
+            "1690915048288342:3116692": "/Users/jdenkim/Library/Caches/Snap/Lens Studio/temp/StudioMFcJVmbmarUF//system//emergencyFiles/emergencyMesh.mesh",
+            "1690915048656077:3116762": "/Applications/Lens Studio.app/Contents/MacOS//../Resources/Studio3DResources.bundle/materials/textures/white.png"
+        }
+    },
+    "InspectorController": {
+        "selection": {
+            "objects": [
+                "1690911623559130:2900782"
+            ]
+        }
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {}
+}

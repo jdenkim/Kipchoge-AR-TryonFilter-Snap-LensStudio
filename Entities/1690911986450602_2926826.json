@@ -1,0 +1,30 @@
+{
+    "1690911986450602:2926826": {
+        "IResourceController": {
+            "name": "Blender02",
+            "type": 12,
+            "subtype": 0,
+            "dependency": 1,
+            "hidden": false,
+            "uid": "1690911986450551:2926813",
+            "fileId": "1690911986483955:2926838",
+            "originalId": "1690944173408383:3834110",
+            "expected_hash": "cfcc95e4032ea7275bd6e2c53f8e440e"
+        },
+        "IResourceManager": {
+            "uid": "1690911986450551:2926813",
+            "name": "Blender02",
+            "flags": 0
+        }
+    },
+    "1690911986483955:2926838": {
+        "IFileManager": {
+            "path": "Files/File_1690911986483955_2926838.oprfb"
+        }
+    },
+    "1690944173408383:3834110": {
+        "IFileManager": {
+            "path": "Files/File_1690944173408383_3834110.oprfb"
+        }
+    }
+}
