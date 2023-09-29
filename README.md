@@ -33,6 +33,7 @@ C. Scan the QR code
 
 
 ## Build Process
-In my build process, I harness the capabilities of Model-Viewer to deliver immersive 3D experiences, enabling users to interact with dynamic models. Glitch serves as my rapid development platform, fostering collaboration and efficiency throughout the project's lifecycle. Meanwhile, Clo3D plays a crucial role in the design phase, allowing me to meticulously craft 3D apparel models. The integration of Web XR further enhances the project, bringing essential elements together for a seamless and engaging user experience.
+
+In crafting the NIKE KIPCHOGE AR try-on experience for Snapchat, I embarked on a multifaceted journey. Leveraging Lens Studio as the backbone for Snapchat users, I empowered them to virtually try on Kipchoge's Nike outfit. The process began with the creation of clothing items in  <strong>Clo3D </strong>, a critical step where precision meets creativity. To breathe life into these 3D apparel models, I utilized  <strong>Blender </strong> and  <strong>Adobe Substance 3D </strong>, infusing them with the realism and detail they deserved. As the pieces came together, the integration of these elements transformed the project into an immersive and seamless Web XR experience, delivering a captivating and interactive journey for users.
 
 For a more in-depth understanding of my development process and to explore further insights, please view my Google slides presentation [HERE](https://docs.google.com/presentation/d/1rGSv3Sj-fOn-TRCwOfCggEk1rO2niSc-4itjr63k2po/edit#slide=id.g25ff286d3b7_0_28).
