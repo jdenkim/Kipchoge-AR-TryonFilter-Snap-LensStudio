@@ -2,7 +2,7 @@
 <!-- # Kipchoge-WebXR-Glitch-Clo3D -->
 <h1 align="center"> Nike Kipchoge AR Try-On Lens </h1> <br>
 <p align="center">
-<a href="https://nike-kipchoge-clo3d.glitch.me/">
+<a href="https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=cb2409655d6b40a0ae3f6bc285e7197d&metadata=01">
     <img alt="WebXR Kipchoge GIF file" title="WebXR Kipchoge" src="https://github.com/jdenkim/Kipchoge-AR-TryonFilter-Snap-LensStudio-Clo3D/blob/main/Assets/LenstudioDemoVideo.GIF" width="300">
 
   </a>
